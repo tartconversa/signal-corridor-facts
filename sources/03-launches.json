@@ -1,0 +1,15 @@
+{
+  "intake": 3,
+  "table": "launches",
+  "records": [
+    {
+      "id": "d2c",
+      "junction": "jB",
+      "edition": "winter",
+      "announced": 0,
+      "enabled": 60,
+      "cycle_zero": 60,
+      "replaces": "d2"
+    }
+  ]
+}

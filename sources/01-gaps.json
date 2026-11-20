@@ -1,0 +1,38 @@
+{
+  "intake": 1,
+  "table": "gaps",
+  "records": [
+    {
+      "id": "a-gap",
+      "junction": "jA",
+      "span": [
+        0,
+        60
+      ]
+    },
+    {
+      "id": "b-gap",
+      "junction": "jB",
+      "span": [
+        0,
+        30
+      ]
+    },
+    {
+      "id": "c-gap",
+      "junction": "jC",
+      "span": [
+        0,
+        30
+      ]
+    },
+    {
+      "id": "c-gap2",
+      "junction": "jC",
+      "span": [
+        69,
+        75
+      ]
+    }
+  ]
+}

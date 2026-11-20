@@ -1,0 +1,39 @@
+{
+  "intake": 1,
+  "table": "acceptance",
+  "records": [
+    {
+      "id": "aa1",
+      "scope": "jA",
+      "edition": "winter",
+      "span": [
+        60,
+        90
+      ],
+      "intake": 1,
+      "state": "verified"
+    },
+    {
+      "id": "bb1",
+      "scope": "jB",
+      "edition": "winter",
+      "span": [
+        30,
+        90
+      ],
+      "intake": 1,
+      "state": "verified"
+    },
+    {
+      "id": "rr1",
+      "scope": "east",
+      "edition": "winter",
+      "span": [
+        60,
+        80
+      ],
+      "intake": 1,
+      "state": "pending"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "intake": 2,
+  "table": "acceptance",
+  "records": [
+    {
+      "id": "rr2",
+      "scope": "east",
+      "edition": "winter",
+      "span": [
+        90,
+        102
+      ],
+      "intake": 2,
+      "state": "pending"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "intake": 1,
+  "table": "lanes",
+  "records": [
+    {
+      "id": "l1",
+      "junction": "jA",
+      "movement": "east-A",
+      "span": [
+        0,
+        180
+      ],
+      "phase": "P1"
+    },
+    {
+      "id": "l2",
+      "junction": "jB",
+      "movement": "east-B",
+      "span": [
+        0,
+        90
+      ],
+      "phase": "P2"
+    },
+    {
+      "id": "l3",
+      "junction": "jB",
+      "movement": "east-B",
+      "span": [
+        90,
+        180
+      ],
+      "phase": "P7"
+    },
+    {
+      "id": "l4",
+      "junction": "jC",
+      "movement": "east-C",
+      "span": [
+        0,
+        180
+      ],
+      "phase": "P3"
+    },
+    {
+      "id": "l5",
+      "junction": "jB",
+      "movement": "side-B",
+      "span": [
+        90,
+        180
+      ],
+      "phase": "P2"
+    }
+  ]
+}

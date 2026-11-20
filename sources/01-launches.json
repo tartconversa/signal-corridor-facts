@@ -1,0 +1,33 @@
+{
+  "intake": 1,
+  "table": "launches",
+  "records": [
+    {
+      "id": "d1",
+      "junction": "jA",
+      "edition": "winter",
+      "announced": 0,
+      "enabled": 0,
+      "cycle_zero": 0,
+      "replaces": null
+    },
+    {
+      "id": "d2",
+      "junction": "jB",
+      "edition": "winter",
+      "announced": 0,
+      "enabled": 30,
+      "cycle_zero": 30,
+      "replaces": null
+    },
+    {
+      "id": "d3",
+      "junction": "jC",
+      "edition": "winter",
+      "announced": 30,
+      "enabled": 60,
+      "cycle_zero": 60,
+      "replaces": null
+    }
+  ]
+}

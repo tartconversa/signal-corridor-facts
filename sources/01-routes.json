@@ -1,0 +1,30 @@
+{
+  "intake": 1,
+  "table": "routes",
+  "records": [
+    {
+      "id": "route1",
+      "route": "east",
+      "order": 1,
+      "movement": "east-A",
+      "travel_min": 5,
+      "travel_max": 8
+    },
+    {
+      "id": "route2",
+      "route": "east",
+      "order": 2,
+      "movement": "east-B",
+      "travel_min": 5,
+      "travel_max": 10
+    },
+    {
+      "id": "route3",
+      "route": "east",
+      "order": 3,
+      "movement": "east-C",
+      "travel_min": 0,
+      "travel_max": 0
+    }
+  ]
+}

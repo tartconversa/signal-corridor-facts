@@ -1,0 +1,15 @@
+{
+  "intake": 2,
+  "table": "takeovers",
+  "records": [
+    {
+      "id": "c-t",
+      "junction": "jC",
+      "from": 69,
+      "until": 75,
+      "recovered": null,
+      "kind": "flash",
+      "replaces": null
+    }
+  ]
+}

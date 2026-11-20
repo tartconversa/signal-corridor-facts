@@ -1,0 +1,15 @@
+{
+  "intake": 2,
+  "table": "counts",
+  "records": [
+    {
+      "id": "c5",
+      "movement": "east-A",
+      "span": [
+        118,
+        138
+      ],
+      "volume": 20
+    }
+  ]
+}

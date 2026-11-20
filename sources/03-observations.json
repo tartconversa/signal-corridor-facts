@@ -1,0 +1,21 @@
+{
+  "intake": 3,
+  "table": "observations",
+  "records": [
+    {
+      "id": "ob3a",
+      "junction": "jB",
+      "phase": "P2",
+      "span": [
+        60,
+        90
+      ],
+      "green": [
+        73,
+        87
+      ],
+      "mode": "priority",
+      "replaces": "ob3"
+    }
+  ]
+}

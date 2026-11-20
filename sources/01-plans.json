@@ -1,0 +1,50 @@
+{
+  "intake": 1,
+  "table": "plans",
+  "records": [
+    {
+      "id": "p1",
+      "junction": "jA",
+      "edition": "winter",
+      "phase": "P1",
+      "cycle": 30,
+      "green": [
+        0,
+        12
+      ]
+    },
+    {
+      "id": "p2",
+      "junction": "jB",
+      "edition": "winter",
+      "phase": "P2",
+      "cycle": 30,
+      "green": [
+        7,
+        23
+      ]
+    },
+    {
+      "id": "p3",
+      "junction": "jC",
+      "edition": "winter",
+      "phase": "P3",
+      "cycle": 30,
+      "green": [
+        13,
+        28
+      ]
+    },
+    {
+      "id": "p4",
+      "junction": "jB",
+      "edition": "winter",
+      "phase": "P7",
+      "cycle": 30,
+      "green": [
+        4,
+        12
+      ]
+    }
+  ]
+}

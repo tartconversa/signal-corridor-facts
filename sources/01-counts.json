@@ -1,0 +1,42 @@
+{
+  "intake": 1,
+  "table": "counts",
+  "records": [
+    {
+      "id": "c1",
+      "movement": "east-A",
+      "span": [
+        60,
+        80
+      ],
+      "volume": 18
+    },
+    {
+      "id": "c2",
+      "movement": "east-B",
+      "span": [
+        60,
+        82
+      ],
+      "volume": 22
+    },
+    {
+      "id": "c3",
+      "movement": "east-B",
+      "span": [
+        88,
+        101
+      ],
+      "volume": 12
+    },
+    {
+      "id": "c4",
+      "movement": "east-C",
+      "span": [
+        72,
+        103
+      ],
+      "volume": 17
+    }
+  ]
+}

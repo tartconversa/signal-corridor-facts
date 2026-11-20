@@ -1,0 +1,71 @@
+{
+  "plans": {
+    "id": "text",
+    "junction": "text",
+    "edition": "text",
+    "phase": "text",
+    "cycle": "int",
+    "green": "range"
+  },
+  "launches": {
+    "id": "text",
+    "junction": "text",
+    "edition": "text",
+    "announced": "int",
+    "enabled": "int",
+    "cycle_zero": "int",
+    "replaces": "text"
+  },
+  "lanes": {
+    "id": "text",
+    "junction": "text",
+    "movement": "text",
+    "span": "range",
+    "phase": "text"
+  },
+  "observations": {
+    "id": "text",
+    "junction": "text",
+    "phase": "text",
+    "span": "range",
+    "green": "range",
+    "mode": "text",
+    "replaces": "text"
+  },
+  "takeovers": {
+    "id": "text",
+    "junction": "text",
+    "from": "int",
+    "until": "int",
+    "recovered": "text",
+    "kind": "text",
+    "replaces": "text"
+  },
+  "gaps": {
+    "id": "text",
+    "junction": "text",
+    "span": "range"
+  },
+  "routes": {
+    "id": "text",
+    "route": "text",
+    "order": "int",
+    "movement": "text",
+    "travel_min": "int",
+    "travel_max": "int"
+  },
+  "counts": {
+    "id": "text",
+    "movement": "text",
+    "span": "range",
+    "volume": "int"
+  },
+  "acceptance": {
+    "id": "text",
+    "scope": "text",
+    "edition": "text",
+    "span": "range",
+    "intake": "int",
+    "state": "text"
+  }
+}

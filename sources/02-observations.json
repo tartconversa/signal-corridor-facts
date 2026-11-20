@@ -1,0 +1,21 @@
+{
+  "intake": 2,
+  "table": "observations",
+  "records": [
+    {
+      "id": "oc2",
+      "junction": "jC",
+      "phase": "P3",
+      "span": [
+        30,
+        60
+      ],
+      "green": [
+        43,
+        58
+      ],
+      "mode": "regular",
+      "replaces": null
+    }
+  ]
+}

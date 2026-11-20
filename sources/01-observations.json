@@ -1,0 +1,156 @@
+{
+  "intake": 1,
+  "table": "observations",
+  "records": [
+    {
+      "id": "oa3",
+      "junction": "jA",
+      "phase": "P1",
+      "span": [
+        60,
+        90
+      ],
+      "green": [
+        60,
+        72
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "oa4",
+      "junction": "jA",
+      "phase": "P1",
+      "span": [
+        90,
+        120
+      ],
+      "green": [
+        90,
+        102
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "oa5",
+      "junction": "jA",
+      "phase": "P1",
+      "span": [
+        120,
+        150
+      ],
+      "green": [
+        120,
+        132
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "ob2",
+      "junction": "jB",
+      "phase": "P2",
+      "span": [
+        30,
+        60
+      ],
+      "green": [
+        37,
+        53
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "ob3",
+      "junction": "jB",
+      "phase": "P2",
+      "span": [
+        60,
+        90
+      ],
+      "green": [
+        67,
+        83
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "ob4",
+      "junction": "jB",
+      "phase": "P7",
+      "span": [
+        90,
+        120
+      ],
+      "green": [
+        94,
+        102
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "ob5",
+      "junction": "jB",
+      "phase": "P7",
+      "span": [
+        120,
+        150
+      ],
+      "green": [
+        124,
+        132
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "oc3",
+      "junction": "jC",
+      "phase": "P3",
+      "span": [
+        60,
+        90
+      ],
+      "green": [
+        73,
+        88
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "oc4",
+      "junction": "jC",
+      "phase": "P3",
+      "span": [
+        90,
+        120
+      ],
+      "green": [
+        103,
+        118
+      ],
+      "mode": "regular",
+      "replaces": null
+    },
+    {
+      "id": "oc5",
+      "junction": "jC",
+      "phase": "P3",
+      "span": [
+        120,
+        150
+      ],
+      "green": [
+        133,
+        148
+      ],
+      "mode": "regular",
+      "replaces": null
+    }
+  ]
+}

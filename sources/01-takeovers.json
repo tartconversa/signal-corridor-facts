@@ -1,0 +1,15 @@
+{
+  "intake": 1,
+  "table": "takeovers",
+  "records": [
+    {
+      "id": "a-t",
+      "junction": "jA",
+      "from": 104,
+      "until": 115,
+      "recovered": "120",
+      "kind": "local",
+      "replaces": null
+    }
+  ]
+}
